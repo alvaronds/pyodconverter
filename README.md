@@ -45,15 +45,10 @@ converter.convert('/opt/kittens.docx', '/opt/kittens.pdf',
 
 ## ChangeLog
 
-<<<<<<< HEAD
-v1.8 - 2014-06-28
-=======
 v1.9 - Unreleased
 * Tests pass via setup.py command
 
-v1.8 - 2014-06-27
->>>>>>> 0628e3532a64202722f935e8aea0f6f7f22063c7
-
+v1.8 - 2014-06-28
 * Tests pass under buildout context
 * We can fill bookmarks, document properties and user fields of generated document
   with custom data given as a parameter of converter.
